@@ -1,0 +1,9 @@
+dosyanın yollarını gösteren kutucuk olacak
+o kutucukta dosyaları tek tek seçip çıkartabilecek kopyala kes veya sil işlemleri olabilecek
+ayarlar menüsü olacak, örneğin dosyaların sadece ismi mi yoksa tam yolu gözüksün mü diye soracak
+kutucukta dosyaların boyutu yazılabilir
+kontext menu strip ile checkedlistbox içinden de dosyalar yönetilebilsin
+dosyalar listbox'tan sürükleyip alınabilsin
+
+
+2 versyon olsun; biri simple (lite) versyon diğeri daha kapsamlı versyon

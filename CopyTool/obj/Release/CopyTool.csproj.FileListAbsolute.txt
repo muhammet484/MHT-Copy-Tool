@@ -1,0 +1,11 @@
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\bin\Release\MHT Copy Tool.exe.config
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\bin\Release\MHT Copy Tool.exe
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\bin\Release\MHT Copy Tool.pdb
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Release\CopyTool.csproj.AssemblyReference.cache
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Release\CopyTool.Form1.resources
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Release\CopyTool.Properties.Resources.resources
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Release\CopyTool.csproj.GenerateResource.cache
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Release\CopyTool.csproj.CoreCompileInputs.cache
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Release\MHT Copy Tool.exe
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Release\MHT Copy Tool.pdb
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Release\CopyTool.csproj.SuggestedBindingRedirects.cache

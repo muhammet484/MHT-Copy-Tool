@@ -1,0 +1,5 @@
+Application İcon from:
+https://www.iconfinder.com/icons/9104342/copied_copy_paste_clipboard_checklist_check_icon
+
+Shell context menu from:
+https://www.codeproject.com/Articles/22012/Explorer-Shell-Context-Menu

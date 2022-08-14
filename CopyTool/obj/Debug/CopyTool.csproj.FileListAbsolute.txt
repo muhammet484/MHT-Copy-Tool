@@ -1,0 +1,10 @@
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Debug\CopyTool.csproj.AssemblyReference.cache
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Debug\CopyTool.Form1.resources
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Debug\CopyTool.Properties.Resources.resources
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Debug\CopyTool.csproj.GenerateResource.cache
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Debug\CopyTool.csproj.CoreCompileInputs.cache
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\bin\Debug\MHT Copy Tool.exe.config
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\bin\Debug\MHT Copy Tool.exe
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\bin\Debug\MHT Copy Tool.pdb
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Debug\MHT Copy Tool.exe
+D:\KodlamaProjeleri\c#\CopyTool\CopyTool\obj\Debug\MHT Copy Tool.pdb
