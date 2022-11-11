@@ -13,3 +13,5 @@
 #### You can do more by clicking right
 
 ![image](https://user-images.githubusercontent.com/51961772/184518056-136532ac-e271-4816-b86e-4cfa88c69d11.png)
+
+Note: there are couple of bugs. i'll solve them later
